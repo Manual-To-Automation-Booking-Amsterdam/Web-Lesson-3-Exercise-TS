@@ -4,7 +4,7 @@
   <img src="https://logos-world.net/wp-content/uploads/2021/08/Booking-Logo.png" width="400" height="200" title="Booking_Logo">
 </p>
 
-# Booking.com - Web - Lesson 3 - Exercise - Javascript
+# Booking.com - Web - Lesson 3 - Exercise - Typescript
 
 This repository contains the solution to the exercise from Lesson 3.
 
