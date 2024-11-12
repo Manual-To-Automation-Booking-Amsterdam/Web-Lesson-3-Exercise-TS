@@ -1,0 +1,190 @@
+2024-10-07 17:02:33 - [32minfo[39m: Creating configuration file...
+2024-10-07 17:02:33 - [32minfo[39m: Adding new script(s) in package.json...
+2024-10-07 17:02:33 - [32minfo[39m: Setup completed
+2024-10-07 17:05:54 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-07 17:05:54 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-07 17:06:07 - [32minfo[39m: Local binary started successfully
+2024-10-07 17:06:56 - [32minfo[39m: Visit https://observability.browserstack.com/builds/w5xxvu3hixjp7kt1k1bz5hd2uen5cr68vmnhypdh to view build report, insights, and many more debugging information all at one place!
+
+2024-10-07 17:07:48 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-10-07 17:07:49 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/98a3b43c59fa95fe6dd3bad51b8ba27992fe5abe
+2024-10-07 17:07:49 - [31merror[39m: Size mismatch
+2024-10-07 17:07:49 - [31merror[39m: Size mismatch
+2024-10-07 17:07:49 - [31merror[39m: already finalized or destroyed
+2024-10-07 17:07:49 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.js
+2024-10-07 17:07:54 - [32minfo[39m: Local binary stopped
+2024-10-07 17:08:04 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-07 17:08:04 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-07 17:08:15 - [32minfo[39m: Local binary started successfully
+2024-10-07 17:09:37 - [32minfo[39m: Visit https://observability.browserstack.com/builds/8w4hfmbrrfrkoozk31yb6wljvxbmyywzvbugxrv0 to view build report, insights, and many more debugging information all at one place!
+
+2024-10-07 17:09:38 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/4a1512420ab0a7ef824e16e96b3aa870f2fee3b4
+2024-10-07 17:09:39 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.js
+2024-10-07 17:09:44 - [32minfo[39m: Local binary stopped
+2024-10-07 17:12:18 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-07 17:12:18 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-07 17:12:28 - [32minfo[39m: Local binary started successfully
+2024-10-07 17:13:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/4fml5hzu5msvx9thguxse0qthqtth2n93yrd1r1d to view build report, insights, and many more debugging information all at one place!
+
+2024-10-07 17:13:18 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/25a55b50d8b272738d1b910893b77591f263f38e
+2024-10-07 17:13:20 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.js
+2024-10-07 17:13:25 - [32minfo[39m: Local binary stopped
+2024-10-10 16:15:08 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-10 16:15:08 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-10 16:15:20 - [32minfo[39m: Local binary started successfully
+2024-10-10 16:16:46 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-10-10 16:16:48 - [32minfo[39m: Visit https://observability.browserstack.com/builds/irmiydcmqemzesqbva7tyaoulryaxilkrxgnnngs to view build report, insights, and many more debugging information all at one place!
+
+2024-10-10 16:16:51 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/fa6f1833d09e1cedb80ed0d631f6e1037f6a29f5
+2024-10-10 16:16:52 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.js
+2024-10-10 16:16:58 - [32minfo[39m: Local binary stopped
+2024-10-10 16:17:12 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-10 16:17:12 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-10 16:17:23 - [32minfo[39m: Local binary started successfully
+2024-10-10 16:18:37 - [32minfo[39m: Visit https://observability.browserstack.com/builds/v1o91szhptthxcgne27m20krqwel4r5unnukscyx to view build report, insights, and many more debugging information all at one place!
+
+2024-10-10 16:19:11 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-10-10 16:19:11 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ddd340c6ba0b4d37c61561ed03f2350ae7474673
+2024-10-10 16:19:12 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.js
+2024-10-10 16:19:17 - [32minfo[39m: Local binary stopped
+2024-10-10 16:19:36 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-10 16:19:37 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-10 16:19:49 - [32minfo[39m: Local binary started successfully
+2024-10-10 16:20:48 - [32minfo[39m: Visit https://observability.browserstack.com/builds/n1qri2i01fdgf2n4dfjdmkp3ods68m5gbarljhko to view build report, insights, and many more debugging information all at one place!
+
+2024-10-10 16:20:49 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/109a3df7979733901c1e014df254c6b2fb5b88d6
+2024-10-10 16:20:50 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.js
+2024-10-10 16:20:55 - [32minfo[39m: Local binary stopped
+2024-10-16 13:13:19 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-16 13:13:20 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-16 13:13:29 - [32minfo[39m: Local binary started successfully
+2024-10-16 13:13:30 - [31merror[39m: Error: /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/playwright.config.js does not exist
+    at resolveConfigFile (/Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/node_modules/playwright/lib/common/configLoader.js:259:52)
+    at resolveConfigLocation (/Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/node_modules/playwright/lib/common/configLoader.js:243:30)
+    at Object.TEVJH (/Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/node_modules/browserstack-node-sdk/src/bin/playwright/command.js:2:1600)
+    at getUserPlaywrightConfig (/Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/node_modules/browserstack-node-sdk/src/bin/playwright/command.js:2:2139)
+    at Object.lLCUx (/Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/node_modules/browserstack-node-sdk/src/bin/playwright/command.js:2:5249)
+    at run (/Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/node_modules/browserstack-node-sdk/src/bin/playwright/command.js:2:8625)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async captureError (/Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/node_modules/browserstack-node-sdk/src/bin/runner.js:2:1243)
+2024-10-16 13:13:35 - [32minfo[39m: Local binary stopped
+2024-10-16 13:13:53 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-16 13:13:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-16 13:14:02 - [32minfo[39m: Local binary started successfully
+2024-10-16 13:14:07 - [32minfo[39m: Visit https://observability.browserstack.com/builds/pwmc73lq0liqa0xlgqdlyu87esq66knqs1kilovh to view build report, insights, and many more debugging information all at one place!
+
+2024-10-16 13:14:07 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8141fab625426f148a07446968038b7d1b4cfcdc
+2024-10-16 13:14:08 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.ts
+2024-10-16 13:14:13 - [32minfo[39m: Local binary stopped
+2024-10-18 11:36:51 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-18 11:36:51 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 11:37:01 - [32minfo[39m: Local binary started successfully
+2024-10-18 11:37:06 - [32minfo[39m: Visit https://observability.browserstack.com/builds/2bjjqcdxqyrmdt3y9zscdva0lrpvnq7qgxc2ejsy to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 11:37:06 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f9c2a891edabdc2dce47ab3f8a99607085df5542
+2024-10-18 11:37:07 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.ts
+2024-10-18 11:37:12 - [32minfo[39m: Local binary stopped
+2024-10-18 11:41:25 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/browserstack.yml
+2024-10-18 11:41:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 11:41:33 - [32minfo[39m: Local binary started successfully
+2024-10-18 11:42:29 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ktxpqq2lrg282hec6lbvqenhwcw5wzzlknewvjsa to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 11:42:29 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c1f66286a9082819392f594341c82cdf044fb5dc
+2024-10-18 11:42:31 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 2/Typescript/Lesson 2 Parallel Testing/playwright-browserstack-sdk.config.ts
+2024-10-18 11:42:36 - [32minfo[39m: Local binary stopped
+2024-10-18 12:32:06 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Page Object Model/browserstack.yml
+2024-10-18 12:32:06 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 12:32:16 - [32minfo[39m: Local binary started successfully
+2024-10-18 12:32:21 - [32minfo[39m: Visit https://observability.browserstack.com/builds/kruqop24kqyueyjnsaqozheyglt1k5yqqbcfs5cy to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 12:32:22 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/4843fd55af4382aeaeb79c7da7e6ec5864ce38ce
+2024-10-18 12:32:23 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Page Object Model/playwright-browserstack-sdk.config.ts
+2024-10-18 12:32:28 - [32minfo[39m: Local binary stopped
+2024-10-18 12:34:51 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Page Object Model/browserstack.yml
+2024-10-18 12:34:51 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 12:35:00 - [32minfo[39m: Local binary started successfully
+2024-10-18 12:35:58 - [32minfo[39m: Visit https://observability.browserstack.com/builds/1p6jucwu5bhpd6ryj3gmvaj1iboea06yskhedmps to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 12:35:59 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/6dfa33fe0786da5f242aa5fabba6525aa7cec286
+2024-10-18 12:36:00 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Page Object Model/playwright-browserstack-sdk.config.ts
+2024-10-18 12:36:05 - [32minfo[39m: Local binary stopped
+2024-10-18 12:50:30 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Page Object Model/browserstack.yml
+2024-10-18 12:50:30 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 12:50:39 - [32minfo[39m: Local binary started successfully
+2024-10-18 12:51:35 - [32minfo[39m: Visit https://observability.browserstack.com/builds/bxobjynfifwzvesapfbrspriuvjn169cv1rk6abn to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 12:51:35 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/fcc78573ce31db423f5daab871cf16327abb1e57
+2024-10-18 12:51:37 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Page Object Model/playwright-browserstack-sdk.config.ts
+2024-10-18 12:51:42 - [32minfo[39m: Local binary stopped
+2024-10-18 15:19:19 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-18 15:19:19 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 15:19:29 - [32minfo[39m: Local binary started successfully
+2024-10-18 15:20:13 - [32minfo[39m: Visit https://observability.browserstack.com/builds/t8rdrdxxww2s3tuysgfo0re8oypsrinoevwshqep to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 15:20:14 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/bec1110cc0f885d863a5f6a9b352daaaf7d52206
+2024-10-18 15:20:15 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-18 15:20:20 - [32minfo[39m: Local binary stopped
+2024-10-18 15:26:58 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-18 15:26:58 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 15:27:08 - [32minfo[39m: Local binary started successfully
+2024-10-18 15:27:58 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qhq3mhzdikd9nrtxnvnocrekyzcxociksypk8ji3 to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 15:27:59 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c152145e9cdb5c288a4fc55c78925c5563ced9c8
+2024-10-18 15:28:00 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-18 15:28:05 - [32minfo[39m: Local binary stopped
+2024-10-18 15:30:16 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-18 15:30:16 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 15:30:26 - [32minfo[39m: Local binary started successfully
+2024-10-18 15:31:08 - [32minfo[39m: Visit https://observability.browserstack.com/builds/kwqm94tguf71zasyr7lmuzhhz786ev7ecnppgr90 to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 15:31:09 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/56be28716b2066b384a29b19b540c04ba2152c82
+2024-10-18 15:31:10 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-18 15:31:15 - [32minfo[39m: Local binary stopped
+2024-10-18 15:33:18 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-18 15:33:18 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 15:33:27 - [32minfo[39m: Local binary started successfully
+2024-10-18 15:33:59 - [32minfo[39m: Visit https://observability.browserstack.com/builds/cjnxnriyzrxyubycstd9l5alzem4qzmqa2jysksi to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 15:33:59 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/64160b0794f96dfe3426092c2d7d0f4e03283e78
+2024-10-18 15:34:01 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-18 15:34:06 - [32minfo[39m: Local binary stopped
+2024-10-18 15:53:24 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-18 15:53:24 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-18 15:53:34 - [32minfo[39m: Local binary started successfully
+2024-10-18 15:54:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/o6bkkf1bsowzulgjnozj5hrklwooxrj68odm0kmk to view build report, insights, and many more debugging information all at one place!
+
+2024-10-18 15:54:19 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/37df93f94b85e8a719afee348466d51728c027f7
+2024-10-18 15:54:20 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-18 15:54:24 - [32minfo[39m: Local binary stopped
+2024-10-21 12:33:02 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-21 12:33:02 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-21 12:33:14 - [32minfo[39m: Local binary started successfully
+2024-10-21 12:34:04 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ajyrhmbkcbmigssxpoyc3mjislap31kbfteahpss to view build report, insights, and many more debugging information all at one place!
+
+2024-10-21 12:34:04 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/954b747f833a848ce527429b57a897bf31ca11a0
+2024-10-21 12:34:05 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-21 12:34:10 - [32minfo[39m: Local binary stopped
+2024-10-21 12:34:48 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-21 12:34:48 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-21 12:34:56 - [32minfo[39m: Local binary started successfully
+2024-10-21 12:35:42 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qypf3xkzx3arsprtyrf0hpjmz2afp0gzoxpy46kt to view build report, insights, and many more debugging information all at one place!
+
+2024-10-21 12:35:43 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7ec879e79fc9888c60431a7889a5c3cce8ab206b
+2024-10-21 12:35:44 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-21 12:35:49 - [32minfo[39m: Local binary stopped
+2024-10-21 12:39:46 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-21 12:39:46 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-21 12:39:55 - [32minfo[39m: Local binary started successfully
+2024-10-21 12:40:36 - [32minfo[39m: Visit https://observability.browserstack.com/builds/dal4cqt2akzidjo1lo0stnznlcamrjt7my4juz2d to view build report, insights, and many more debugging information all at one place!
+
+2024-10-21 12:40:37 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b5841e14b5aac8d27d1b89aa8c59b31ac09e0e30
+2024-10-21 12:40:38 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-21 12:40:43 - [32minfo[39m: Local binary stopped
+2024-10-21 12:47:09 - [32minfo[39m: Reading configs from /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/browserstack.yml
+2024-10-21 12:47:09 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-10-21 12:47:18 - [32minfo[39m: Local binary started successfully
+2024-10-21 12:47:59 - [32minfo[39m: Visit https://observability.browserstack.com/builds/s7f6z7pkavr1o6l6wv5zt83tmnjazjfrhd95ptuv to view build report, insights, and many more debugging information all at one place!
+
+2024-10-21 12:47:59 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ea3c748aaf76b4bff6e603d0a846f33f72751407
+2024-10-21 12:48:01 - [32minfo[39m: Deleting /Users/garybehan/Documents/Code/Customers/Booking/Amsterdam/Lesson 3/Typescript/Lesson 3 Exercise/playwright-browserstack-sdk.config.ts
+2024-10-21 12:48:06 - [32minfo[39m: Local binary stopped
